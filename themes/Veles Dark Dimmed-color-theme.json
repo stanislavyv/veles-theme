@@ -3,11 +3,11 @@
     "name": "Veles Dark Dimmed",
     "type": "dark",
     "colors": {
-        "activityBar.activeBackground": "#998ef133",
+        "activityBar.activeBackground": "#20232a",
         "activityBar.activeBorder": "#ff4081",
         "activityBar.background": "#151720",
         "activityBar.border": "#00000060",
-        "activityBar.foreground": "#a6accd",
+        "activityBar.foreground": "#fb4875",
         "activityBar.inactiveForeground": "#6e67a877",
         "activityBarBadge.background": "#ff4081",
         "activityBarBadge.foreground": "#000000",
@@ -42,8 +42,8 @@
         "editor.foreground": "#a6accd",
         "editor.hoverHighlightBackground": "#6e67a83f",
         "editor.inactiveSelectionBackground": "#6e67a833",
-        "editor.lineHighlightBackground": "#000000da",
-        "editor.lineHighlightBorder": "#000000da",
+        "editor.lineHighlightBackground": "#22242e",
+        "editor.lineHighlightBorder": "#22242e",
         "editor.rangeHighlightBackground": "#ffffff0d",
         "editor.selectionBackground": "#717cb450",
         "editor.selectionHighlightBackground": "#000000da",
@@ -140,7 +140,7 @@
         "list.focusForeground": "#a6accd",
         "list.highlightForeground": "#ff4081",
         "list.hoverBackground": "#1b1e2b",
-        "list.hoverForeground": "#ffffff",
+        "list.hoverForeground": "#fb4875",
         "list.inactiveFocusBackground": "#2b2843",
         "list.inactiveSelectionBackground": "#00000030",
         "list.inactiveSelectionForeground": "#ff4081",
@@ -152,11 +152,11 @@
         "menu.foreground": "#a6accd",
         "menu.selectionBackground": "#00000050",
         "menu.selectionBorder": "#00000030",
-        "menu.selectionForeground": "#ff4081",
+        "menu.selectionForeground": "#fb4875",
         "menu.separatorBackground": "#a6accd",
         "menubar.selectionBackground": "#00000030",
         "menubar.selectionBorder": "#00000030",
-        "menubar.selectionForeground": "#ff4081",
+        "menubar.selectionForeground": "#fb4875",
         "merge.border": "#29264000",
         "merge.commonContentBackground": "#ffc18022",
         "merge.commonHeaderBackground": "#ffc18044",
@@ -231,7 +231,7 @@
         "sideBar.foreground": "#757ca1",
         "sideBarSectionHeader.background": "#1b1e2b",
         "sideBarSectionHeader.border": "#00000060",
-        "sideBarSectionHeader.foreground": "#a9a5c0",
+        "sideBarSectionHeader.foreground": "#fb4875",
         "sideBarTitle.foreground": "#a6accd",
         "statusBar.background": "#151720",
         "statusBar.border": "#00000060",
@@ -718,6 +718,12 @@
             ],
             "settings": {
                 "foreground": "#89DDFF"
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name.pseudo-class",
+            "settings": {
+                "fontStyle": ""
             }
         },
         {
@@ -1437,7 +1443,7 @@
         {
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#FB637C"
+                "foreground": "#5dc3dd"
             }
         },
         {
@@ -1841,6 +1847,12 @@
             "scope": "support.class",
             "settings": {
                 "foreground": "#FFCB6B"
+            }
+        },
+        {
+            "scope": "punctuation.terminator.rule.css",
+            "settings": {
+                "foreground": "#e4e4e4"
             }
         }
     ]

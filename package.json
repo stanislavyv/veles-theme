@@ -12,9 +12,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Veles Dark",
+                "label": "Veles Dark Default",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Veles Dark-color-theme.json"
+                "path": "./themes/Veles Dark Default-color-theme.json"
+            },
+            {
+
             }
         ]
     }
