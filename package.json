@@ -9,6 +9,13 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "veles",
+        "veles theme",
+        "veles dark theme"
+    ],
     "contributes": {
         "themes": [
             {
@@ -17,8 +24,22 @@
                 "path": "./themes/Veles Dark Default-color-theme.json"
             },
             {
-
+                "label": "Veles Dark Dimmed",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Veles Dark Dimmed-color-theme.json"
             }
         ]
-    }
+    },
+
+    "icon": "icons/vd-icon.png",
+    "author": {
+        "name": "Stanislav Valkov",
+        "email": "stanislavyv@students.softuni.bg",
+        "url": "https://www.linkedin.com/in/stanislav-valkov-0967611b8/"
+    },
+    "repository": {
+        "url": "https://github.com/stanislavyv/veles-theme",
+        "type": "git"
+    },
+    "publisher": "stanislavyv"
 }
