@@ -1574,7 +1574,7 @@
         {
             "scope": "variable.other.readwrite",
             "settings": {
-                "foreground": "#A7C2DF"
+                "foreground": "#97BEE9"
             }
         },
         {
