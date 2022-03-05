@@ -1,4 +1,6 @@
 node_modules
+.vscode
+.vscodeignore
 demo
 *.vsix
 vsc-extension-quickstart.md
