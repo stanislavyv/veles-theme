@@ -727,6 +727,19 @@
             }
         },
         {
+            "scope": "variable.other.constant.object",
+            "settings": {
+                "foreground": "#3D9BE2",
+                "fontStyle": ""
+            }
+        },
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": [
                 "variable",
                 "variable.object",
