@@ -1578,6 +1578,13 @@
             }
         },
         {
+            "scope": "meta.jsx.children.js",
+            "settings": {
+                "foreground": "#B7C4D1",
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": "support.variable.property",
             "settings": {
                 "foreground": "#A7C2DF"

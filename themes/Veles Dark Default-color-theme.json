@@ -723,6 +723,13 @@
             }
         },
         {
+            "scope": "meta.jsx.children.js",
+            "settings": {
+                "foreground": "#B7C4D1",
+                "fontStyle": ""
+            }
+        },
+        {
             "scope": [
                 "variable",
                 "variable.object",
