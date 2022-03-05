@@ -676,11 +676,6 @@
         },
         {
             "scope": [
-                "keyword",
-                "keyword.control",
-                "keyword.other.template",
-                "keyword.other.substitution",
-                "storage.modifier",
                 "meta.tag.sgml",
                 "punctuation.accessor",
                 "constant.other.color",
@@ -691,28 +686,19 @@
                 "entity.other.attribute-name.pseudo-element",
                 "tag.decorator.js entity.name.tag.js",
                 "tag.decorator.js punctuation.definition.tag.js",
-                "storage.type.function.pug",
                 "text.pug storage.type",
                 "text.pug meta.tag.other",
-                "source.clojure storage.control",
-                "meta.expression.clojure",
                 "punctuation.separator.slice.python",
                 "punctuation.separator.question-mark.cs",
                 "punctuation.definition.parameters.varargs",
-                "source.go keyword.operator",
                 "punctuation.separator.pointer-access",
                 "punctuation.separator.other.ruby",
-                "keyword.package",
-                "keyword.import",
                 "punctuation.definition.keyword",
                 "punctuation.separator.hash.cs",
                 "entity.other.attribute-name.pseudo-class.css punctuation.definition.entity.css",
                 "entity.other.attribute-name.pseudo-element.css punctuation.definition.entity.css",
-                "source.kotlin storage.type.import",
-                "source.kotlin storage.type.package",
                 "constant.string.documentation.powershell",
                 "punctuation.section.directive",
-                "storage.type.rust",
                 "punctuation.definition.attribute",
                 "punctuation.definition.preprocessor",
                 "punctuation.separator.namespace",
@@ -721,13 +707,10 @@
                 "source.ocaml variable.interpolation string",
                 "source.reason variable.interpolation",
                 "punctuation.definition.directive",
-                "storage.type.modifier",
                 "keyword.other.class.fileds",
                 "source.toml entity.other.attribute-name",
                 "source.css entity.name.tag.custom",
-                "sharing.modifier",
-                "keyword.control.class.ruby",
-                "keyword.control.def.ruby"
+                "sharing.modifier"
             ],
             "settings": {
                 "foreground": "#89DDFF"
@@ -1441,6 +1424,12 @@
         },
         {
             "scope": "support.function",
+            "settings": {
+                "foreground": "#FB637C"
+            }
+        },
+        {
+            "scope": "keyword, keyword.control, keyword.other.template, keyword.other.substitution, storage.modifier,storage.type.function.pug, source.clojure storage.control, meta.expression.clojure, source.go keyword.operator, keyword.package, keyword.import, source.kotlin storage.type.import, source.kotlin storage.type.package, storage.type.rust, storage.type.modifier, keyword.control.class.ruby, keyword.control.def.ruby",
             "settings": {
                 "foreground": "#FB637C"
             }
