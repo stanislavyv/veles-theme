@@ -740,7 +740,6 @@
                 "variable.import.parameter",
                 "variable.other.class",
                 "meta.toc-list.id.html",
-                "source.json meta.structure.dictionary.json support.type.property-name.json",
                 "meta.var.clojure",
                 "entity.name.variable",
                 "source.java meta.class.body.java",
@@ -787,6 +786,14 @@
                 "source.tf meta.template.expression",
                 "source.scala entity.name.import",
                 "markup.code"
+            ],
+            "settings": {
+                "foreground": "#97BEE9"
+            }
+        },
+        {
+            "scope": [
+                "source.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
                 "foreground": "#A6ACCD"
@@ -1490,7 +1497,7 @@
         {
             "scope": "meta.object-literal.key.js",
             "settings": {
-                "foreground": "#A6ACCD",
+                "foreground": "#97BEE9",
                 "fontStyle": ""
             }
         },
