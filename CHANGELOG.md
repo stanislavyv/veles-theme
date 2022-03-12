@@ -2,23 +2,25 @@
 
 All notable changes to the "veles-dark" extension will be documented in this file.
 
-## [0.1.0] - 2022-03-05
+## 0.1.1 - 2022-03-12
 
-### Added
-- Multiple language support
+### Fixed JSX children foreground
+### Update .gitignore
+### Change variable foreground
+### Made editor squiggles foreground brighter
 
-## [0.0.5] - 2022-03-05
+## 0.1.0 - 2022-03-05
 
-### Added
-- Custom theme icon
+### Added multiple language support
 
-### Fixed
-- Foreground color fix (constant variables)
+## 0.0.5 - 2022-03-05
 
-## [0.0.4] - 2022-03-04
+### Added custom theme icon
+### Fixed constant variables foreground
 
-### Fixed
-- Made the bacground color of current selected line lighter (dimmed theme)
+## 0.0.4 - 2022-03-04
+
+### Made the background color of current selected line lighter (dimmed theme)
 
 ## [Unreleased]
 
