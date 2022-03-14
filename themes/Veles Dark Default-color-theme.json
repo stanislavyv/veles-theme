@@ -710,9 +710,9 @@
             }
         },
         {
-            "scope": "variable.other.constant.object",
+            "scope": "variable.other.constant.object, variable.other.constant",
             "settings": {
-                "foreground": "#3D9BE2",
+                "foreground": "#66A9E2",
                 "fontStyle": ""
             }
         },
