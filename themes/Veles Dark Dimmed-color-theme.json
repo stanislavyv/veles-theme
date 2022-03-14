@@ -611,7 +611,7 @@
         {
             "scope": "variable.other.constant.object, variable.other.constant",
             "settings": {
-                "foreground": "#66A9E2",
+                "foreground": "#589fdd",
                 "fontStyle": ""
             }
         },
