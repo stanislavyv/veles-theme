@@ -712,7 +712,7 @@
         {
             "scope": "variable.other.constant.object, variable.other.constant",
             "settings": {
-                "foreground": "#589fdd",
+                "foreground": "#60a4f1",
                 "fontStyle": ""
             }
         },
@@ -1585,7 +1585,7 @@
         {
             "scope": "constant.language",
             "settings": {
-                "foreground": "#79B8FF"
+                "foreground": "#60a4f1"
             }
         },
         {
