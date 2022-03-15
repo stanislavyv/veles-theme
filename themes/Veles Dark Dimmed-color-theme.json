@@ -1595,7 +1595,7 @@
         {
             "scope": "support.variable.property",
             "settings": {
-                "foreground": "#A7C2DF"
+                "foreground": "#e4e4e4"
             }
         },
         {
