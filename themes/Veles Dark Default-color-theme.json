@@ -1054,7 +1054,6 @@
                 "support.type",
                 "support.class",
                 "punctuation.definition.parameters",
-                "support.function",
                 "support.function.construct",
                 "markup.changed.git_gutter",
                 "markup.underline.link",
@@ -1398,7 +1397,7 @@
         {
             "scope": "support.function",
             "settings": {
-                "foreground": "#FB637C"
+                "foreground": "#5DC3DD"
             }
         },
         {
