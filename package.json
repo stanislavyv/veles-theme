@@ -2,7 +2,7 @@
     "name": "veles-dark",
     "displayName": "Veles Dark",
     "description": "A dark theme with pleasant colours. Inspired by Nocterial Palenight and Electron.",
-    "version": "0.1.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.65.0"
     },
