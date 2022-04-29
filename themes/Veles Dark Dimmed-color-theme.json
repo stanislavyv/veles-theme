@@ -895,7 +895,7 @@
                 "meta.definition.attribute-entry punctuation.separator"
             ],
             "settings": {
-                "foreground": "#FFCB6B"
+                "foreground": "#5DC3DD"
             }
         },
         {
@@ -1426,13 +1426,13 @@
         {
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#5dc3dd"
+                "foreground": "#FFCB6B"
             }
         },
         {
             "scope": "support.function",
             "settings": {
-                "foreground": "#5DC3DD"
+                "foreground": "#FFCB6B"
             }
         },
         {
@@ -1477,7 +1477,7 @@
         {
             "scope": "entity.name.type.class, entity.name.type",
             "settings": {
-                "foreground": "#FFCB6B",
+                "foreground": "#5DC3DD",
                 "fontStyle": ""
             }
         },
@@ -1490,7 +1490,7 @@
         {
             "scope": "meta.function-call.generic.python",
             "settings": {
-                "foreground": "#5DC3DD",
+                "foreground": "#FFCB6B",
                 "fontStyle": ""
             }
         },
@@ -1567,14 +1567,14 @@
         {
             "scope": "entity.name.type.ts",
             "settings": {
-                "foreground": "#FFCB6B",
+                "foreground": "#5DC3DD",
                 "fontStyle": ""
             }
         },
         {
             "scope": "support.type.primitive",
             "settings": {
-                "foreground": "#FFCB6B",
+                "foreground": "#5DC3DD",
                 "fontStyle": ""
             }
         },
@@ -1614,7 +1614,7 @@
         {
             "scope": "variable.other.object",
             "settings": {
-                "foreground": "#FFCB6B"
+                "foreground": "#5DC3DD"
             }
         },
         {
@@ -1632,7 +1632,7 @@
         {
             "scope": "support.variable",
             "settings": {
-                "foreground": "#FFCB6B",
+                "foreground": "#5DC3DD",
                 "fontStyle": ""
             }
         },
@@ -1689,14 +1689,14 @@
         {
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#5DC3DD",
+                "foreground": "#FFCB6B",
                 "fontStyle": ""
             }
         },
         {
             "scope": "entity.name.function.member",
             "settings": {
-                "foreground": "#5DC3DD",
+                "foreground": "#FFCB6B",
                 "fontStyle": ""
             }
         },
@@ -1842,7 +1842,7 @@
         {
             "scope": "support.class",
             "settings": {
-                "foreground": "#FFCB6B"
+                "foreground": "#5DC3DD"
             }
         },
         {
